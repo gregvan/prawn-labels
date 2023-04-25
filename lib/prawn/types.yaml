@@ -47,7 +47,18 @@ Avery5163:
     columns: 2
     rows: 5
     column_gutter: 18
-    row_gutter: 0    
+    row_gutter: 0
+# Avery 5390 - warning these are approximated 
+Avery5390:
+    paper_size: LETTER
+    top_margin: 27
+    bottom_margin: 27
+    left_margin: 24
+    right_margin: 24
+    columns: 2
+    rows: 4
+    column_gutter: 10
+    row_gutter: 5
 # Standard #10 envelope
 Envelope10:
     paper_size: [297, 595.28]
@@ -80,14 +91,4 @@ Avery6871:
     rows: 6
     column_gutter: 22.6
     row_gutter: 18.4
-# Avery 5390
-Avery5390:
-    paper_size: LETTER
-    top_margin: 80
-    bottom_margin: 80
-    left_margin: 26.9
-    right_margin: 26.9
-    columns: 3
-    rows: 4
-    column_gutter: 22.6
-    row_gutter: 18.4
+
