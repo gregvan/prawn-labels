@@ -57,7 +57,7 @@ Avery5390:
     right_margin: 54
     columns: 2
     rows: 4
-    column_gutter: 0
+    column_gutter: 18
     row_gutter: 0
 # Standard #10 envelope
 Envelope10:
