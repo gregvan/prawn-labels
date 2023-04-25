@@ -51,14 +51,14 @@ Avery5163:
 # Avery 5390 - warning these are approximated 
 Avery5390:
     paper_size: LETTER
-    top_margin: 27
-    bottom_margin: 27
-    left_margin: 24
-    right_margin: 24
+    top_margin: 76.5
+    bottom_margin: 76.5
+    left_margin: 54
+    right_margin: 54
     columns: 2
     rows: 4
-    column_gutter: 10
-    row_gutter: 5
+    column_gutter: 0
+    row_gutter: 0
 # Standard #10 envelope
 Envelope10:
     paper_size: [297, 595.28]
