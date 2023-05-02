@@ -65,7 +65,7 @@ Avery5393:
     top_margin: 72
     bottom_margin: 72
     left_margin: 27
-    right_margin: 27
+    right_margin: 36
     columns: 2
     rows: 3
     column_gutter: 18
