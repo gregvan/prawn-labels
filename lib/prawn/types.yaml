@@ -59,6 +59,17 @@ Avery5390:
     rows: 4
     column_gutter: 18
     row_gutter: 0
+# Avery 5393 - warning these are approximated
+Avery5393:
+    paper_size: LETTER
+    top_margin: 72
+    bottom_margin: 72
+    left_margin: 18
+    right_margin: 18
+    columns: 2
+    rows: 3
+    column_gutter: 18
+    row_gutter: 0
 # Standard #10 envelope
 Envelope10:
     paper_size: [297, 595.28]
