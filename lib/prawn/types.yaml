@@ -64,8 +64,8 @@ Avery5393:
     paper_size: LETTER
     top_margin: 72
     bottom_margin: 72
-    left_margin: 18
-    right_margin: 18
+    left_margin: 27
+    right_margin: 27
     columns: 2
     rows: 3
     column_gutter: 18
